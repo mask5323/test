@@ -48,4 +48,4 @@
             { "id": "Option", "type": "TEXT", "label": "Option", "pattern": "", "customProperties": {} },
             { "id": "Count", "type": "TEXT", "label": "Count", "pattern": "", "customProperties": {} }
         ]
-    };
+    }
