@@ -1,51 +1,13 @@
 {
-        "rows": [
-            {
-                "cells": [
-                    {
-                        "value": { "value": "A", "objectToFormat": "A", "null": false, "type": "TEXT" },
-                        "formattedValue": null,
-                        "customProperties": {},
-                        "null": false,
-                        "type": "TEXT"
-                    },
-                    {
-                        "value": { "value": "1", "objectToFormat": "1", "null": false, "type": "TEXT" },
-                        "formattedValue": null,
-                        "customProperties": {},
-                        "null": false,
-                        "type": "TEXT"
-                    }
-                ],
-                "customProperties": {}
-            },
-            {
-                "cells": [
-                    {
-                        "value": { "value": "B", "objectToFormat": "B", "null": false, "type": "TEXT" },
-                        "formattedValue": null,
-                        "customProperties": {},
-                        "null": false,
-                        "type": "TEXT"
-                    },
-                    {
-                        "value": { "value": "0", "objectToFormat": "0", "null": false, "type": "TEXT" },
-                        "formattedValue": null,
-                        "customProperties": {},
-                        "null": false,
-                        "type": "TEXT"
-                    }
-                ],
-                "customProperties": {}
-            }
-        ],
-        "customProperties": {},
-        "warnings": [],
-        "localeForUserMessages": null,
-        "numberOfRows": 2,
-        "numberOfColumns": 2,
-        "columnDescriptions": [
-            { "id": "Option", "type": "TEXT", "label": "Option", "pattern": "", "customProperties": {} },
-            { "id": "Count", "type": "TEXT", "label": "Count", "pattern": "", "customProperties": {} }
-        ]
-    }
+  "cols": [
+        {"id":"","label":"Topping","pattern":"","type":"string"},
+        {"id":"","label":"Slices","pattern":"","type":"number"}
+      ],
+  "rows": [
+        {"c":[{"v":"Mushrooms","f":null},{"v":3,"f":null}]},
+        {"c":[{"v":"Onions","f":null},{"v":1,"f":null}]},
+        {"c":[{"v":"Olives","f":null},{"v":1,"f":null}]},
+        {"c":[{"v":"Zucchini","f":null},{"v":1,"f":null}]},
+        {"c":[{"v":"Pepperoni","f":null},{"v":2,"f":null}]}
+      ]
+}
